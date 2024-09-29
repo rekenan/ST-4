@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQyUOUDjiIw=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Kenan\\Documents\\projects\\ST-4\\BugPro\\BugPro.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Не удалось найти пакет Stateless. Пакеты с таким идентификатором отсутствуют в следующих источниках пакетов: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Stateless",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
